@@ -1,0 +1,6 @@
+The links to 2 datasets are provided: one to "GluMetF-3cls400imgs" and one to "GluMetF-3cls400imgs-inf".
+
+See "GluMetF-3cls400imgs" for the original GluMetF dataset. GluMetF has the format of 
+the Cityscapes dataset: https://www.cityscapes-dataset.com/
+
+"GluMetF-3cls400imgs-inf" has the test samples specifically selected for analyzing visually the inference performance. 
